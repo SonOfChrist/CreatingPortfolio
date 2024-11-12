@@ -44,13 +44,14 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className='mt-4 text-secondary text-[17px] leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+      Hi everyone!
+      I am a professional in web and app development with over 4 years in Tech service sector. I have refined my strengths through my years of experience.
+      🧱 About me & what I'm looking for:
+      🌍 I'm open to roles in Nairobi County
+      The following is a snapshot of my broader technical skills in: Laravel, PHP, Python, IOT, CodeIgniter, JavaScript, MySQL, Java, HTML5, XML, REST APIs, SOAP, Eclipse, Visual Studio, MS SQL Server, C, React, NPM, React Native, GIT, WordPress, Joomla, WIX, Shopify, Prestashop, Flutter, Android Studio, Linux, Docker, SQLite, Jira, New Relic, AJAX, jQuery, Socket.io, DevOps, Adobe Suite, CPANEL, Webmin, VPS, TypeScript, Bootstrap, Tailwind CSS, Material UI, PHPStorm, SEO, GraphQL APIs. USSD Programming, Bulk SMS Intergration, Payment Gateways Intergration, OOP PROGRAMMING, Nginx. Microsoft Azure, Amazon AWS, Alibaba Cloud, Digital Ocean, GitHub, Bitbucket, CentOS, Kubernetes (Kops, AWS EKS), SAAS Development
+      ⭐️I've previously worked with Icerberg International Ltd
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

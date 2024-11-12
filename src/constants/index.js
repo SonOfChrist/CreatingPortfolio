@@ -17,7 +17,23 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Web Developer/React.js",
+    icon: web,
+  },
+  {
+    title: "Php And laravelDeveloper",
+    icon: web,
+  },
+  {
+    title: "Database/MangoDB & Mysql",
+    icon: web,
+  },
+  {
+    title: "Bulk Sms Intergration and Paymentgateway Integration",
+    icon: web,
+  },
+  {
+    title: "CyberSecurity",
     icon: web,
   },
   {
@@ -29,7 +45,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Java Dev",
     icon: creator,
   },
 ];
@@ -92,7 +108,7 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "Computer Pride",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
@@ -104,8 +120,8 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Php And laravelDeveloper",
+    company_name: "Iceberg International Ltd",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",

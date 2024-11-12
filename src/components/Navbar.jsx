@@ -37,7 +37,7 @@ const Navbar = () => {
           }}
         >
           <img src= {logo} alt= "Mariah'sDeisgnedLogo" className='w-9 h-9 object-contain' />
-          <p className='text-[#fc6dfe] text-[18px] font-bold cursor-pointer flex '>MaryNaliaka &nbsp;<span className='sm:block hidden'> | @ Mamlaka </span>
+          <p className='text-[#fc6dfe] text-[18px] font-bold cursor-pointer flex '>StanleyMochoge &nbsp;<span className='sm:block hidden'> | @ SoftwareDev </span>
           </p>
         </Link>
 
