@@ -163,18 +163,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I thought it was impossible to make a website as beautiful as our product, but DennisAtogoMochoge proved me wrong.",
+    name: "Dennis Mochoge",
+    designation: "Accountant",
+    company: "Developmentbank",
+    image: "https://media.licdn.com/dms/image/v2/C4D03AQH0_lEwPq8NQw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1655193872850?e=2147483647&v=beta&t=zHyTcH4aNDRdXGlGkXOJQqAbuFfOi9n9LUDmAgWZ6HU",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "I've never met a web developer who truly cares about their clients' success like MaryNaliakaKisiangani.",
+    name: "Mary Nalika kisiangani",
+    designation: "Secretary",
+    company: "Mamlaka Hill",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
@@ -207,7 +207,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SonOfChrist",
   },
   {
     name: "Job IT",
@@ -228,7 +228,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SonOfChrist",
   },
   {
     name: "Trip Guide",
@@ -249,7 +249,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SonOfChrist/",
   },
 ];
 
